@@ -110,12 +110,3 @@ Open a Pull Request
 This project is licensed under the MIT License.
 
 💡 Built with Next.js & Prisma to make healthcare smarter and more connected.
-
-yaml
-Copy code
-
----
-
-👉 This way you have **all sections (features, tech stack, structure, setup, deployment, contribution, license)** in **one clean README.md**.  
-
-Do you also want me to add **badges** (like GitHub stars, license, build status) at the top for a more pr
