@@ -79,7 +79,8 @@ npm run dev
 Open http://localhost:3000 in your browser 🚀
 
 📸 Screenshots
-Add screenshots or GIFs here (login, signup, dashboard, etc.)
+[MediConnect Sign-In](assets/sign-in.png)
+[MediConnect Sign-Up](assets/sign-up.png)
 
 🚀 Deployment
 Deploy easily on Vercel:
